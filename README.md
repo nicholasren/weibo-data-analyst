@@ -1,3 +1,6 @@
 weibo-data-analyst
-==================
-a template project to use (spark)[http://www.spark-project.org] to analysis big data.
+==============
+tasks:
+1. fetch public timeline
+2. 分词，计算word count
+3. 看看大家都在聊什么
