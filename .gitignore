@@ -1,2 +1,5 @@
 target/
 src/main/resources/*.txt
+access_code_hunter/app_cert.yml
+weibo-tags/
+project/
